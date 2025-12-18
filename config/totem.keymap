@@ -99,7 +99,7 @@
 
             #binding-cells = <2>;
             tapping-term-ms = <200>;
-            quick-tap-ms = <130>;
+            quick-tap-ms = <160>;
             flavor = "tap-preferred";
         };
 
@@ -110,7 +110,7 @@
 
             #binding-cells = <2>;
             tapping-term-ms = <190>;
-            quick-tap-ms = <180>;
+            quick-tap-ms = <170>;
             flavor = "tap-preferred";
             retro-tap;
         };
